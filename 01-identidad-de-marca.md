@@ -1,4 +1,6 @@
-# Identidad de marca: borrador de dirección
+# AndeLogic Engineering — identidad de marca: borrador de dirección
+
+> Nombre de trabajo adoptado. La validación legal, de dominios y de redes sigue pendiente.
 
 ## Propósito
 
@@ -38,9 +40,16 @@ No son eslóganes definitivos. Sirven para orientar diseño y contenido.
 - Calcula, verifica y documenta.
 - Tecnología para el criterio del ingeniero.
 
+## Significado del nombre
+
+- **Ande** representa Ecuador y Latinoamérica mediante la cordillera de los Andes.
+- **Logic** representa software, cálculo, datos y sistemas verificables.
+- **Engineering** deja claro que el propósito central es crear tecnología para ingeniería.
+
 ## Reglas de marca
 
-- La marca final no debe depender de “CivilKit”, porque el nombre y sus variaciones son comunes.
+- La marca nueva de trabajo es **AndeLogic Engineering**; CivilKit queda como nombre anterior.
+- Debe revisarse la posible confusión con nombres similares antes de hacer un lanzamiento legal o comercial.
 - Debe ser fácil de pronunciar en español y razonablemente entendible fuera de Ecuador.
 - Debe admitir una extensión de productos: `[Marca] PreDim`, `[Marca] PlanillaCheck`, etc.
 - Debe permitir una extensión de archivo: `proyecto.[sigla-de-marca]`.

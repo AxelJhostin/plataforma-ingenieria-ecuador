@@ -8,7 +8,9 @@ Esta carpeta define la reestructuración de una familia de proyectos de ingenier
 
 La iniciativa nace de una observación concreta: en ingeniería civil, muchos cálculos rutinarios siguen resolviéndose en Excel, mientras que el software profesional suele ser costoso, complejo y sobredimensionado para tareas puntuales. Existe una oportunidad para crear herramientas verificables, claras y accesibles, inicialmente orientadas a Ecuador y a la NEC.
 
-El proyecto anterior más avanzado se llamaba **CivilKit EC / PreDim NEC**. Ese nombre se reemplazará: la marca final todavía no está decidida. Ecuador se mantiene expresamente como parte de la identidad y del propósito de posicionamiento mundial.
+El nombre de trabajo adoptado para la nueva etapa es **AndeLogic Engineering**. Es una elección provisional de identidad; antes del lanzamiento público debe verificarse la disponibilidad legal, de dominios y de perfiles sociales.
+
+El proyecto anterior más avanzado se llamaba **CivilKit EC / PreDim NEC**. Ese nombre se reemplazará progresivamente por AndeLogic Engineering. Ecuador se mantiene expresamente como parte de la identidad y del propósito de posicionamiento mundial.
 
 ## Visión
 
@@ -28,7 +30,7 @@ La IA no debe inventar ecuaciones, alterar resultados en silencio ni reemplazar 
 
 ## Decisiones ya tomadas
 
-- La marca anterior CivilKit dejará de ser el nombre final; se definirá una nueva marca.
+- La marca anterior CivilKit dejará de ser el nombre final; el nombre de trabajo actual es AndeLogic Engineering.
 - Ecuador no se eliminará de la identidad. El objetivo es llevar una propuesta ecuatoriana a reconocimiento internacional.
 - Existirá un portal web principal, profesional y enfocado en marketing, documentación, descubrimiento y descargas.
 - Cada herramienta tendrá una interfaz y flujo especializado. No se volverá a concentrar todo en una sola pantalla o producto monolítico.
@@ -84,4 +86,4 @@ Las fases detalladas están en [03-roadmap-y-fases.md](03-roadmap-y-fases.md). L
 
 ## Próxima decisión humana
 
-Definir el nombre de marca. No se debe elegir dominio, extensión de archivo, logo final ni nombres de productos hasta que exista una propuesta de nombre con verificación de disponibilidad, pronunciación y coherencia.
+Validar formalmente AndeLogic Engineering. No se debe elegir dominio definitivo, extensión de archivo ni logo final hasta revisar disponibilidad, posibles conflictos, pronunciación y coherencia.

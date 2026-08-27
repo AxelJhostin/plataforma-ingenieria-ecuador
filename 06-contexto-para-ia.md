@@ -6,7 +6,7 @@ Antes de hacer cambios, leer todos los archivos de esta carpeta, empezando por `
 
 ## Qué se está construyendo
 
-Una marca ecuatoriana de herramientas de ingeniería civil, con un portal web central y productos especializados independientes. La iniciativa busca resolver el espacio entre hojas de Excel frágiles y suites profesionales costosas, manteniendo trazabilidad, transparencia y responsabilidad técnica.
+**AndeLogic Engineering** es el nombre de trabajo de una marca ecuatoriana de herramientas de ingeniería civil, con un portal web central y productos especializados independientes. La iniciativa busca resolver el espacio entre hojas de Excel frágiles y suites profesionales costosas, manteniendo trazabilidad, transparencia y responsabilidad técnica.
 
 ## Contexto de la persona creadora
 
@@ -22,7 +22,7 @@ Estos proyectos aportan experiencia y posibles módulos futuros, pero no obligan
 
 ## Decisiones firmes
 
-- CivilKit dejará de ser la marca final por colisiones y falta de diferenciación.
+- AndeLogic Engineering reemplaza provisionalmente a CivilKit como marca de trabajo; la disponibilidad legal y digital aún debe validarse.
 - Ecuador debe permanecer en la identidad y posicionamiento.
 - Primero se construye la marca y portal; luego un único primer producto estructurado.
 - No iniciar el siguiente producto hasta completar los criterios de salida del actual.
